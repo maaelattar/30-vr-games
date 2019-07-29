@@ -1,6 +1,6 @@
 
 # 30 VR Games
- Develop 30 different game for cardboard and daydream headsets
+ Develop 30 different game for daydream headset
 
 ## Table of contents
 * [Technologies](#technologies)
@@ -15,7 +15,7 @@
 
 ## Status
 
-Completed 2 games from 30
+Completed 5 games from 30
 
 
 ## Inspiration

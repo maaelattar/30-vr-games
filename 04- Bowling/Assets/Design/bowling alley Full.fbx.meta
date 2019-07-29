@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: c1410eb597fae4395bc90f809d2591a6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 001. Ceiling
+    100002: //RootNode
+    100004: Cube
+    100006: Cube.001
+    100008: Cube.002
+    100010: Cube.003
+    100012: Cube.004
+    100014: Cube.005
+    100016: Cube.006
+    100018: Cube.007
+    100020: Cube.009
+    100022: Cube.009_MeshPart0
+    100024: Cube.009_MeshPart1
+    100026: Cube.009_MeshPart2
+    100028: Cube.012
+    100030: Cylinder
+    100032: Cylinder.001
+    100034: Cylinder.002
+    100036: Cylinder.003
+    100038: Cylinder.004
+    100040: Cylinder.005
+    100042: Cylinder.006
+    100044: Cylinder.007
+    100046: Cylinder.008
+    100048: Cylinder.009
+    400000: 001. Ceiling
+    400002: //RootNode
+    400004: Cube
+    400006: Cube.001
+    400008: Cube.002
+    400010: Cube.003
+    400012: Cube.004
+    400014: Cube.005
+    400016: Cube.006
+    400018: Cube.007
+    400020: Cube.009
+    400022: Cube.009_MeshPart0
+    400024: Cube.009_MeshPart1
+    400026: Cube.009_MeshPart2
+    400028: Cube.012
+    400030: Cylinder
+    400032: Cylinder.001
+    400034: Cylinder.002
+    400036: Cylinder.003
+    400038: Cylinder.004
+    400040: Cylinder.005
+    400042: Cylinder.006
+    400044: Cylinder.007
+    400046: Cylinder.008
+    400048: Cylinder.009
+    2300000: 001. Ceiling
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Cube.003
+    2300010: Cube.004
+    2300012: Cube.005
+    2300014: Cube.006
+    2300016: Cube.007
+    2300018: Cube.009_MeshPart0
+    2300020: Cube.009_MeshPart1
+    2300022: Cube.009_MeshPart2
+    2300024: Cube.012
+    2300026: Cylinder
+    2300028: Cylinder.001
+    2300030: Cylinder.002
+    2300032: Cylinder.003
+    2300034: Cylinder.004
+    2300036: Cylinder.005
+    2300038: Cylinder.006
+    2300040: Cylinder.007
+    2300042: Cylinder.008
+    2300044: Cylinder.009
+    3300000: 001. Ceiling
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Cube.003
+    3300010: Cube.004
+    3300012: Cube.005
+    3300014: Cube.006
+    3300016: Cube.007
+    3300018: Cube.009_MeshPart0
+    3300020: Cube.009_MeshPart1
+    3300022: Cube.009_MeshPart2
+    3300024: Cube.012
+    3300026: Cylinder
+    3300028: Cylinder.001
+    3300030: Cylinder.002
+    3300032: Cylinder.003
+    3300034: Cylinder.004
+    3300036: Cylinder.005
+    3300038: Cylinder.006
+    3300040: Cylinder.007
+    3300042: Cylinder.008
+    3300044: Cylinder.009
+    4300000: 001. Ceiling
+    4300002: Cube.012
+    4300004: Cube.007
+    4300006: Cube.005
+    4300008: Cube.009_MeshPart0
+    4300010: Cube.009_MeshPart1
+    4300012: Cube.009_MeshPart2
+    4300014: Cube.003
+    4300016: Cube.006
+    4300018: Cube.004
+    4300020: Cube.002
+    4300022: Cube.001
+    4300024: Cube
+    4300026: Cylinder.009
+    4300028: Cylinder.008
+    4300030: Cylinder.007
+    4300032: Cylinder.006
+    4300034: Cylinder.005
+    4300036: Cylinder.004
+    4300038: Cylinder.003
+    4300040: Cylinder.002
+    4300042: Cylinder.001
+    4300044: Cylinder
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back Machine Wall Base Color
+    second: {fileID: 2100000, guid: 2330aa771c1ff4acd94ebd0f2b7dc12b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back Wall Darkness Color
+    second: {fileID: 2100000, guid: ca051d41f9e564e7291f9201b43dbc9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back Wall Decal 001 Color
+    second: {fileID: 2100000, guid: 7a151d4d7273343bab677cbc3a8b391d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back Wall Decal 002 Color
+    second: {fileID: 2100000, guid: 770bfbb4bbdc14e75bde64c9204e963b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ball Retrieval Machine
+    second: {fileID: 2100000, guid: 8f10ea59bbf774cd3b269da16d1e464d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bowling Alley 2nd Floor Color
+    second: {fileID: 2100000, guid: 18b0e00c2b98b45f2877b970c45b1168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bowling Alley 3rd Floor Color
+    second: {fileID: 2100000, guid: 62402ebc8c7b643f580e0e2347cbb98f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bowling Alley Base Floor Color
+    second: {fileID: 2100000, guid: 48169cf86d9a14be3bf80a093edcffaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bowling Alley Side Wall Base Color
+    second: {fileID: 2100000, guid: 972797a7ca87d4cbd94613b6e47c43d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bowling Pin Base Color
+    second: {fileID: 2100000, guid: 61f8a18c5f0cf43c889a67a531ee160a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bowling Pin Stripe Color
+    second: {fileID: 2100000, guid: a70681e98c2c346a0b0c4d4049627037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair Color
+    second: {fileID: 2100000, guid: e899feeebe3f44bd3909e77cfc9b9ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair Leg Color
+    second: {fileID: 2100000, guid: f158403c3adab4664ae4f7d21e3bcba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Darkness
+    second: {fileID: 2100000, guid: 1c6dea350f3b64d379a08b6278720bd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Base Color
+    second: {fileID: 2100000, guid: 85500ed29bff14bf0a832afac67d23fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Window Color
+    second: {fileID: 2100000, guid: bd83b2281be63448b9d29b254bcbc786, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entrance wall Color
+    second: {fileID: 2100000, guid: bf0d70f6ec1e9451c977edb03247d9eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gutter Color
+    second: {fileID: 2100000, guid: fa35a8d1ab7244cc7b874fca4fc682c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: eb8c083aff4e244b9b464a51266bce5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table Base Color
+    second: {fileID: 2100000, guid: 457a50f7eea8f447a9f4dfd91735fd60, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
